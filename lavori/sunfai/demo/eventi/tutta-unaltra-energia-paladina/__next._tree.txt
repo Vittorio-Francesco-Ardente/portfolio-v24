@@ -1,0 +1,8 @@
+:HL["/portfolio-v24/lavori/sunfai/demo/_next/static/chunks/35_hc6razhk-0.css","style"]
+:HL["/portfolio-v24/lavori/sunfai/demo/_next/static/chunks/1dwmne7r-cgqx.css","style"]
+:HL["/portfolio-v24/lavori/sunfai/demo/_next/static/media/PlusJakartaSans_Variable-s.p.1nsast9qgxif8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"tutta-unaltra-energia-paladina","s":[]},"h":65632,"c":"$Q4"}]]
+2:[["children",{"s":"eventi","h":131136,"c":"$Q3"}]]
+1:[["children",{"s":"(it)","h":131120,"c":"$Q2"}]]
+0:{"b":"fL666a-wU0XOhekx6Yobb","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

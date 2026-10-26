@@ -1,0 +1,1 @@
+var e=e=>e===`local`?localStorage:sessionStorage,t=(t,n,r=`local`)=>{try{e(r).setItem(t,n)}catch{}},n;new Promise(e=>n=e);var r=()=>n();export{t as n,r as t};

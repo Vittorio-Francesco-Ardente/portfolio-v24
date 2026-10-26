@@ -1,0 +1,1 @@
+function e(e){let[,,t,n]=e.getAttribute(`viewBox`).split(` `).map(Number),r=Number(e.dataset.barre)||7,i=()=>(r=(r*9301+49297)%233280)/233280,a=0,o=``;for(;a<t;){let e=1+Math.floor(i()*3.3);i()>.33&&(o+=`<rect x="${a}" y="0" width="${e}" height="${n}" fill="currentColor"/>`),a+=e+1}e.innerHTML=o}var t=(t=document)=>t.querySelectorAll(`svg[data-barre]`).forEach(e);export{t};

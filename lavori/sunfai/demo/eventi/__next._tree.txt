@@ -1,0 +1,7 @@
+:HL["/portfolio-v24/lavori/sunfai/demo/_next/static/chunks/35_hc6razhk-0.css","style"]
+:HL["/portfolio-v24/lavori/sunfai/demo/_next/static/chunks/1dwmne7r-cgqx.css","style"]
+:HL["/portfolio-v24/lavori/sunfai/demo/_next/static/media/PlusJakartaSans_Variable-s.p.1nsast9qgxif8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"eventi","h":64,"c":"$Q3"}]]
+1:[["children",{"s":"(it)","h":48,"c":"$Q2"}]]
+0:{"b":"fL666a-wU0XOhekx6Yobb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

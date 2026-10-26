@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vittorio-francesco-ardente.github.io/sitemap.xml

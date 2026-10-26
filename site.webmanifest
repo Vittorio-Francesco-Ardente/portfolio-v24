@@ -1,0 +1,15 @@
+{
+  "name": "Vittorio Francesco Ardente",
+  "short_name": "VFA",
+  "description": "Portfolio di Vittorio Francesco Ardente, sviluppatore junior: interfacce web, database, automazioni.",
+  "lang": "it",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#0a0a0b",
+  "theme_color": "#0a0a0b",
+  "icons": [
+    { "src": "/portfolio-v24/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/portfolio-v24/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/portfolio-v24/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

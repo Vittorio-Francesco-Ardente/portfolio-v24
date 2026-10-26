@@ -1,0 +1,28 @@
+3:"$Sreact.fragment"
+4:"/portfolio-v24/lavori/sunfai/demo/_next/static/chunks/42onvq6nokjl2.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+d:I[97367,["$4"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$4"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$4"],"$13"]
+15:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","section",null,{"data-section":"redirect","className":"sf-section section-y","children":[["$","meta",null,{"httpEquiv":"refresh","content":"0; url=/portfolio-v24/lavori/sunfai/demo/notizie/"}],["$","link",null,{"rel":"canonical","href":"https://www.sun-fai.org/lavori/sunfai/demo/notizie/"}],["$","div",null,{"className":"container-x","children":[["$","p",null,{"className":"t-lead","children":"Questa notizia ha un nuovo indirizzo."}],["$","a",null,{"href":"/portfolio-v24/lavori/sunfai/demo/notizie/","className":"btn btn--primary btn--md mt-6","children":"Vai alla notizia"}]]}]]}],[["$","script","script-0",{"src":"/portfolio-v24/lavori/sunfai/demo/_next/static/chunks/25xdzf7t23szd.js","async":true}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"4","s":[]},"h":65632,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+2:[["children",{"s":"notizie","h":131136,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"(it)","h":131120,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content"}],["$","meta","2",{"name":"theme-color","content":"#FAF7F0"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Notizie · SUN-FAI"}],["$","meta","1",{"name":"description","content":"Novità dalla cooperativa SUN-FAI: configurazioni, Comuni, riconoscimenti e aggiornamenti dai canali social."}],["$","meta","2",{"name":"application-name","content":"SUN-FAI"}],["$","meta","3",{"name":"robots","content":"noindex, follow"}],["$","meta","4",{"name":"content-language","content":"it"}],["$","link","5",{"rel":"canonical","href":"https://www.sun-fai.org/lavori/sunfai/demo/notizie/"}],["$","meta","6",{"property":"og:title","content":"Notizie"}],["$","meta","7",{"property":"og:description","content":"Novità dalla cooperativa SUN-FAI: configurazioni, Comuni, riconoscimenti e aggiornamenti dai canali social."}],["$","meta","8",{"property":"og:url","content":"https://www.sun-fai.org/lavori/sunfai/demo/notizie/"}],["$","meta","9",{"property":"og:site_name","content":"SUN-FAI"}],["$","meta","10",{"property":"og:locale","content":"it_IT"}],["$","meta","11",{"property":"og:image","content":"https://www.sun-fai.org/lavori/sunfai/demo/social/sunfai-condivisione-v29.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"SUN-FAI — Comunità energetica, società cooperativa"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Notizie"}],["$","meta","18",{"name":"twitter:description","content":"Novità dalla cooperativa SUN-FAI: configurazioni, Comuni, riconoscimenti e aggiornamenti dai canali social."}],["$","meta","19",{"name":"twitter:image","content":"https://www.sun-fai.org/lavori/sunfai/demo/social/sunfai-condivisione-v29.jpg"}],["$","link","20",{"rel":"icon","href":"/portfolio-v24/lavori/sunfai/demo/icon.svg?icon.2rvhui5uzotm6.svg","sizes":"any","type":"image/svg+xml"}],["$","$L15","21",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$9"}},"a":"$@17","u":"$@18","b":"fL666a-wU0XOhekx6Yobb"}
+f:null
+18:true
+9:300
+9:C
+17:0
+b:"$undefined"
+7:"$undefined"
+16:"$undefined"
+10:"$undefined"

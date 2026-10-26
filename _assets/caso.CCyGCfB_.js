@@ -1,0 +1,1 @@
+import{t as e}from"./reduced-motion.DuTOU59s.js";function t(t){let n=t.querySelector(`video[data-autoplay]`);if(!n||e())return()=>{};let r=new IntersectionObserver(([e])=>{e?.isIntersecting?n.play().catch(()=>{}):n.pause()},{threshold:.3});return r.observe(n),()=>r.disconnect()}export{t as init};

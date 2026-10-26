@@ -1,0 +1,5 @@
+:HL["/portfolio-v24/lavori/sunfai/demo/_next/static/chunks/35_hc6razhk-0.css","style"]
+:HL["/portfolio-v24/lavori/sunfai/demo/_next/static/chunks/1dwmne7r-cgqx.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
+0:{"b":"fL666a-wU0XOhekx6Yobb","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
